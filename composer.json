@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/clickatell",
+    "name": "arasosman/clickatell",
     "description": "Clickatell notifications driver",
     "keywords": ["laravel", "notifications", "clickatell", "sms"],
     "homepage": "https://github.com/laravel-notification-channels/clickatell",
